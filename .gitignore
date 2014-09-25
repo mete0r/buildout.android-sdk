@@ -4,3 +4,12 @@ bin
 develop-eggs
 eggs
 parts
+SDK Readme.txt
+build-tools/
+packages.txt
+packages/
+platform-tools
+platforms/
+system-images/
+temp/
+tools
